@@ -1,0 +1,3 @@
+﻿# Carlos Clu, Rodrigo Ruiz
+- Carlos Clu
+- Rodrigo Ruiz
